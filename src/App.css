@@ -12,10 +12,8 @@ html {
 .app__videos {
   height: 100vh;
   max-height: 800px;
-  min-height: fit-content;
   width: 80%;
   max-width: 500px;
-  border: 1px solid black;
   border-radius: 20px;
   overflow: scroll;
   scroll-snap-type: y mandatory;
