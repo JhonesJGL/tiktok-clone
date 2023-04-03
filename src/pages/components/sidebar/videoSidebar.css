@@ -14,3 +14,15 @@
 .patternIcon:hover {
   cursor: pointer;
 }
+
+@media only screen and (max-height: 750px) {
+  .videoSidebar {
+    top: 45%;
+  }
+}
+
+@media only screen and (max-height: 600px) {
+  .videoSidebar {
+    top: 40%;
+  }
+}
